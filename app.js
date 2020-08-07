@@ -50,9 +50,3 @@ document.getElementById("menu_close").onclick=function(){
 
 
 
-
-
-
-
-
-
